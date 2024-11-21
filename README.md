@@ -38,7 +38,9 @@ Controller
 - East Button (`X` or `Square`) to attack
 - North Button (`Y` or `Triangle`) to share warmth
 
-https://www.youtube.com/watch?v=USLnmfNqFdk
+### [Live Demo](https://www.youtube.com/watch?v=USLnmfNqFdk)
+
+[![Watch the video](https://github.com/user-attachments/assets/9d660d0f-e5ac-4153-aff8-7ca57d57ccad)](https://www.youtube.com/watch?v=USLnmfNqFdk)
 
 ### Project Information
 - Clone the project and import into Unity
